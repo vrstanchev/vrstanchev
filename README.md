@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning for my Master Degree
 - 👀 I’m looking to collaborate on open source software.
 - LinkedIn: https://www.linkedin.com/in/veselin-stanchev-1872a819b/
+- 👀 PhD student very soon.
 - My favourite university descipline - Operating Systems and Computer Architectures.
 
 <!---
