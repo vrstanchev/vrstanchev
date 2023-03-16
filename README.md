@@ -7,6 +7,7 @@
 - 🧑‍🎓 PhD student very soon.
 - 💻 I’m looking to collaborate on open source software.
 - 🖱️ My favourite university descipline - Operating Systems and Computer Architectures.
+- ✈️ Hobby - wathing fighter jets
 
 
 <!---
