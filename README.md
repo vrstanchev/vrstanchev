@@ -7,7 +7,7 @@
 - 🧑‍🎓 PhD student very soon.
 - 💻 I’m looking to collaborate on open source software.
 - 🖱️ My favourite university descipline - Operating Systems and Computer Architectures.
-- ✈️ Hobby - wathing fighter jets\
+- ✈️ Hobby - wathing fighter jets`<br>`
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/vrstanchev)
 
 <!---
