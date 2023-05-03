@@ -4,7 +4,7 @@
 - 📖 My scientific field of future progress is Computer Architectures.
 - 🐧  My daily interest is to use open source tools only. Linux passion.
 - 🌱 I’m currently learning for my Master Degree.
-- 🧑‍🎓 Become graduated engineer Computer Systems and Technologies soon.
+- 🧑‍🎓 Become graduated engineer Computer Systems and Technologies, MSc soon.
 - 🧑‍🎓 PhD student very soon.
 - 💻 I’m looking to collaborate on open source software.
 - 🖱️ My favourite university descipline - Operating Systems and Computer Architectures.
