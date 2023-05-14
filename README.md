@@ -9,7 +9,7 @@
 - 💻 I’m looking to collaborate on open source software.
 - 🖱️ My favourite university descipline - Operating Systems and Computer Architectures.
 - ✈️ Hobby - wathing fighter jets
-- [!["ResearchGate"](https://icons-for-free.com/iconfiles/png/512/super+tiny+icons+researchgate-1324450767242972063.png)](https://www.researchgate.net/profile/Veselin-Stanchev-2)
+- [!["ResearchGate"](https://icons-for-free.com/iconfiles/png/64/super+tiny+icons+researchgate-1324450767242972063.png)](https://www.researchgate.net/profile/Veselin-Stanchev-2)
 
 <!---
 vesodeveloper/vesodeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
