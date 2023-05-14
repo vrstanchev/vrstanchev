@@ -9,7 +9,7 @@
 - 💻 I’m looking to collaborate on open source software.
 - 🖱️ My favourite university descipline - Operating Systems and Computer Architectures.
 - ✈️ Hobby - wathing fighter jets
-- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/vrstanchev)
+- [!["ResearchGate"](https://cdn.iconscout.com/icon/free/png-256/free-researchgate-3628433-3031593.png)](https://www.researchgate.net/profile/Veselin-Stanchev-2)
 
 <!---
 vesodeveloper/vesodeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
