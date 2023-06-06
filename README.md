@@ -4,7 +4,7 @@
 - 📖 My scientific field of future progress is Computer Architectures.
 - 🐧  My daily interest is to use open source tools only. Linux passion.
 - 🌱 Semester graduate Eng. MSc.
-- 🌱 Learning to fly throught FightGear simulator civil single engine airplane ✈️
+- 🌱 I'm Learning to fly throught FightGear simulator civil single engine airplane ✈️
 - 🧑‍🎓 Become graduated engineer Computer Systems and Technologies, MSc soon.
 - 🧑‍🎓 PhD student very soon.
 - 💻 I’m looking to collaborate on open source software.
