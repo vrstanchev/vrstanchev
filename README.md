@@ -12,7 +12,7 @@
 - ✈️ Hobby - wathing fighter jets
 - [!["ResearchGate"](https://icons-for-free.com/iconfiles/png/64/super+tiny+icons+researchgate-1324450767242972063.png)](https://www.researchgate.net/profile/Veselin-Stanchev-2)
 [!["asmarch"](https://asmarch.github.io/asmarch/asmarcheresized.png)](  https://asmarch.github.io/asmarch/ )
-github: vrstanchev
+
 <!---
 vesodeveloper/vesodeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
