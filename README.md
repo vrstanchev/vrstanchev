@@ -9,7 +9,7 @@
 - 🧑‍🎓 PhD student very soon.
 - 💻 I’m looking to collaborate on open source software.
 - 🖱️ My favourite university descipline - Operating Systems and Computer Architectures.
-- ✈️ Hobby - wathing fighter jets
+- ✈️ Hobby - waching fighter jets
 - [!["ResearchGate"](https://icons-for-free.com/iconfiles/png/64/super+tiny+icons+researchgate-1324450767242972063.png)](https://www.researchgate.net/profile/Veselin-Stanchev-2)
 [!["asmarch"](https://asmarch.github.io/asmarch/asmarcheresized.png)](  https://asmarch.github.io/asmarch/ )
 
