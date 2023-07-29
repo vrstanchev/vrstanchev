@@ -6,7 +6,8 @@
 - 🌱 Semester graduate Eng. MSc.
 - 🌱 I'm Learning to fly throught FightGear simulator civil single engine airplane ✈️
 - 🧑‍🎓 Become graduated engineer Computer Systems and Technologies, MSc soon.
-- 🧑‍🎓 PhD student very soon.
+- 🧑‍🎓 PhD preparation started in July 2023.
+- 👨‍🔬 Computer Architectures research field. 
 - 💻 I’m looking to collaborate on open source software.
 - 🖱️ My favourite university descipline - Operating Systems and Computer Architectures.
 - ✈️ Hobby - waching fighter jets
