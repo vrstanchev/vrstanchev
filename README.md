@@ -5,10 +5,10 @@
 - 🌱 Semester graduate Eng. MSc.
 - 🌱 I'm Learning to fly throught FightGear simulator civil single engine airplane ✈️
 - 🧑‍🎓 Become graduated engineer Computer Systems and Technologies, MSc soon.
-- 🧑‍🎓 PhD preparation started in July 2023. Self-training form.
+- 🧑‍🎓 PhD preparation started in Aug 2023. Self-training form.
 - 📖 Scientific field : Computer Architectures.
 - 📖💻 Professional field : Computer Systems complexes and networks (CSCN) 5.3 @ TU-Plovdiv, BG
-- 💻 Scientific papers preparation started.
+- 💻 Scientific papers preparation for PhD thesis started.
 - 💻 I’m looking to collaborate on open source software.
 - 🖱️ My favourite university descipline - Operating Systems and Computer Architectures.
 - ✈️ Hobby - waching fighter jets
