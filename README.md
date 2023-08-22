@@ -7,7 +7,8 @@
 - 🧑‍🎓 Become graduated engineer Computer Systems and Technologies, MSc soon.
 - 🧑‍🎓 PhD preparation started in Aug 2023. Self-training form.
 - 📖 Scientific field : Computer Architectures.
-- 📖💻 Professional field : Computer Systems complexes and networks (CSCN) 5.3 @ TU-Plovdiv, BG
+- 📖💻 Professional field : Communication and Computer Technics 5.3 @ TU-Plovdiv, BG
+- 🧑‍🎓📖 PhD program :  Computer Systems complexes and networks (CSCN) 
 - 💻 Scientific papers preparation for PhD thesis started.
 - 💻 I’m looking to collaborate on open source software.
 - 🖱️ My favourite university descipline - Operating Systems and Computer Architectures.
