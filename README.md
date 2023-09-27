@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Veselin Stanchev
 - 🏢 working at TU-Plovdiv as Software Engineer, ICT Departmеnt. 
-- 📖 My scientific interest for my Bachelor and Master degrees is Assembly language Programming for Microcontrollers.
 - 🐧  My daily interest is to use open source tools only. Linux passion.
-- 🌱 Semester graduate Eng. MSc.
+- 🌱 Graduate MSc.Eng.  Diploma work Grade: 5.00
 - 🌱 I'm Learning to fly throught FightGear simulator civil single engine airplane ✈️
 - 🧑‍🎓 Become graduated engineer Computer Systems and Technologies, MSc soon.
 - 🧑‍🎓 PhD preparation started in Aug 2023. Self-training form.
