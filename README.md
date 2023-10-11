@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Veselin Stanchev
 - 🏢 working at TU-Plovdiv as Software Engineer, ICT Departmеnt. 
 - 🐧  My daily interest is to use open source tools only. Linux passion.
-- 🧑‍🎓 Graduate MSc.Eng.  Diploma work Grade: 5.00
+- 🧑‍🎓 Graduate Eng. MSc.  Diploma work Grade: 5.00
 - 🌱 I'm Learning to fly throught FightGear simulator civil single engine airplane ✈️
-- 🧑‍🎓 Become graduated engineer Computer Systems and Technologies, MSc soon.
 - 🧑‍🎓 PhD preparation started in Aug 2023. Self-training form.
 - 📖 Scientific field : Computer Architectures.
 - 📖💻 Professional field : Communication and Computer Technics 5.3 @ TU-Plovdiv, BG
