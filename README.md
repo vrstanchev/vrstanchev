@@ -9,7 +9,8 @@
 - 🖱️ 📖 Scientific field : Computer Architectures.
 - 🌱 I'm Learning to fly throught FightGear simulator civil single engine airplane ✈️
 - ✈️ Hobby - waching fighter jets
-- [!["ResearchGate"](https://icons-for-free.com/iconfiles/png/64/super+tiny+icons+researchgate-1324450767242972063.png)](https://www.researchgate.net/profile/Veselin-Stanchev-2)  [!["ORCID"](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/64px-ORCID_iD.svg.png)](https://orcid.org/0009-0009-2992-5326)  <!-- [!["JITSI"](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/64/jitsi-icon.png)](https://meet.jit.si/vrstanchev)-->
+- [!["ResearchGate"](https://icons-for-free.com/iconfiles/png/64/super+tiny+icons+researchgate-1324450767242972063.png)](https://www.researchgate.net/profile/Veselin-Stanchev-2)  [!["ORCID"](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/64px-ORCID_iD.svg.png)](https://orcid.org/0009-0009-2992-5326)
+- Link for university needs  [!["JITSI"](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/64/jitsi-icon.png)](https://meet.jit.si/vrstanchev)
 
 <!---
 vesodeveloper/vesodeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
