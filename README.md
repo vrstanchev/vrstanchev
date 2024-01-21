@@ -10,9 +10,9 @@
 - 🌱 I'm Learning to fly throught FightGear simulator civil single engine airplane ✈️
 -  ✈️📖 Hobby -> Reading about and watching fighter jets 
 - 🧑‍🎓 PhD Research links :
-- [!["ResearchGate"](https://icons-for-free.com/iconfiles/png/64/super+tiny+icons+researchgate-1324450767242972063.png)](https://www.researchgate.net/profile/Veselin-Stanchev-2)  [!["ORCID"](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/64px-ORCID_iD.svg.png)](https://orcid.org/0009-0009-2992-5326) [!["JITSI"](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/64/jitsi-icon.png)](https://meet.jit.si/vrstanchev)  
+- [!["ResearchGate"](https://icons-for-free.com/iconfiles/png/64/super+tiny+icons+researchgate-1324450767242972063.png)](https://www.researchgate.net/profile/Veselin-Stanchev-2)  [!["ORCID"](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/64px-ORCID_iD.svg.png)](https://orcid.org/0009-0009-2992-5326) [!["JITSI"](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/64/jitsi-icon.png)](https://meet.jit.si/vrstanchev)[!["Medium"](https://cdn.icon-icons.com/icons2/2997/PNG/64/medium_logo_icon_187624.png)](https://medium.com/@vrstanchev)    
 - 📺 🕶️ Stream -> Streaming  educational content in Bulgarian on Twitch  
-- [!["Medium"](https://cdn.icon-icons.com/icons2/2997/PNG/64/medium_logo_icon_187624.png)](https://medium.com/@vrstanchev)[!["Twitch"](https://cdn.icon-icons.com/icons2/3041/PNG/64/twitch_logo_icon_189242.png)](https://www.twitch.tv/vrstanchev)
+- [!["Twitch"](https://cdn.icon-icons.com/icons2/3041/PNG/64/twitch_logo_icon_189242.png)](https://www.twitch.tv/vrstanchev)
 
 <!---
 vesodeveloper/vesodeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
