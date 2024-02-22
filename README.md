@@ -2,6 +2,7 @@
 - 🏢 working at TU-Plovdiv as Software Engineer, ICT Departmеnt. 
 - 🐧  My daily interest is to use open source tools only. Linux passion.
 - 🧑‍🎓 Graduate Eng. MSc.  Diploma work Grade: 5.00. Next target - PhD.
+- 🖱️ 💻 Current scientific status: pre-doctoral.
 - 📖💻 Professional field : Communication and Computer Technics 5.3 @ TU-Plovdiv, BG
 - 🧑‍🎓📖 PhD program :  Computer Systems complexes and networks (CSCN). Self-training form.
 - 💻 PhD thesis theme -> Methods and Tools to develop a assembly-based operating system for embedded devices
