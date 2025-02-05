@@ -3,9 +3,6 @@
 - 🐧  My daily interest is to use open source tools only. Linux passion.
 - 🧑‍🎓 Graduate Eng. MSc.  Diploma work Grade: 5.00. Next target - PhD.
 - 🖱️ 💻 Current scientific status: pre-doctoral.
-- 📖💻 Professional field : Communication and Computer Technics 5.3 @ TU-Plovdiv, BG
-- 🧑‍🎓📖 PhD program :  Computer Systems complexes and networks (CSCN). Full-time form.
-- 💻 PhD thesis theme -> Methods and Tools to develop a assembly-based operating system for embedded devices
 - 💻 I’m looking to collaborate on open source software.
 - 🖱️ 📖 Scientific field : Computer Architectures.
 - 🌱 I'm Learning to fly throught FightGear simulator civil single engine airplane ✈️
