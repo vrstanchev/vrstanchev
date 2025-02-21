@@ -4,7 +4,7 @@
 ![GitHub Stars](https://img.shields.io/github/stars/vrstanchev?style=flat-square&color=yellow)  
 ![GitHub Sponsors](https://img.shields.io/badge/Sponsor-Support%20Me-red?style=flat-square)  
 ![Live Streams](https://img.shields.io/badge/Live%20Coding-Nightly-red?style=flat-square)  
-![BSD & Linux](https://img.shields.io/badge/OS-BSD%20%26%20Linux-informational?style=flat-square)  
+![Linux Only](https://img.shields.io/badge/OS-Linux-critical?style=flat-square)  
 ![Assembly & C](https://img.shields.io/badge/Language-Assembly%20%26%20C-yellow?style=flat-square)  
 [![Website](https://img.shields.io/badge/Website-vrstanchev.dev-orange?style=flat-square)](https://vrstanchev.dev)  
 
@@ -19,7 +19,7 @@
 I’m **vrstanchev**, an **open-source hacker, assembly enthusiast, and systems dev** pushing the boundaries of:  
 
 🛠 **Assembly & RISC-V** – Code straight from the metal.  
-📱 **BSD-Based iOS Development** – No Xcode? No problem.  
+🐧 **Linux Power User** – Mastering **kernel internals & system-level programming**.  
 💡 **Minimalist C & Systems Programming** – Because bloat is the enemy.  
 🎥 **Live Streaming Nightly** – Join me at **7 PM EEST** for **low-level deep dives**.  
 
@@ -32,7 +32,7 @@ I’m **vrstanchev**, an **open-source hacker, assembly enthusiast, and systems 
 🔬 **vrstanchevLab** is my **dedicated open-source organization** for:  
 ✅ **Assembly education** – Helping devs master **RISC-V, x86, ARM**.  
 ✅ **Minimalist, high-performance C programming** – No bloat, just power.  
-✅ **BSD-based iOS Development** – Coding iOS the Unix way.  
+✅ **Linux Systems Programming** – Shell scripting, kernel hacking, low-level tooling.  
 ✅ **Tools & experiments** – Low-level hacking & real-world optimizations.  
 
 ### 🌟 **Top Projects in `vrstanchevLab`**  
